@@ -1,0 +1,4 @@
+name: NightDamage
+version: '$version'
+main: org.windy.nightDamage.NightDamage
+api-version: '1.20'

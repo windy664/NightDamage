@@ -1,0 +1,31 @@
+# 是否启用（完美开关，直接从监听器上开关）
+enabled: true
+
+# 启用的世界
+enabled-worlds:
+  - world
+  - world_the_end
+  - world_nether
+  - nether
+  - end
+  - DIM1
+  - DIM-1
+  - IridiumSkyblock
+
+# 亮度阈值（小于该亮度时触发）
+light-threshold: 1
+
+# 检测频率（以 ticks 为单位，20 ticks = 1 秒）
+check-frequency: 20
+
+# 玩家扣血直到死亡
+damage-till-death: true
+
+#提示消息
+message: '§o§d黑暗袭击了你'
+message2: '§o§d你感到一丝黑暗，心跟碎了一样'
+
+debug: true
+
+#伤害数值,注意要保留一位小数
+damage: 2.0
